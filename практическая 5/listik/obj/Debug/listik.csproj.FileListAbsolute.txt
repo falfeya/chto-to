@@ -1,0 +1,8 @@
+C:\Users\upass\OneDrive\Рабочий стол\курсы\listik\bin\Debug\listik.exe.config
+C:\Users\upass\OneDrive\Рабочий стол\курсы\listik\bin\Debug\listik.exe
+C:\Users\upass\OneDrive\Рабочий стол\курсы\listik\bin\Debug\listik.pdb
+C:\Users\upass\OneDrive\Рабочий стол\курсы\listik\obj\Debug\listik.csproj.AssemblyReference.cache
+C:\Users\upass\OneDrive\Рабочий стол\курсы\listik\obj\Debug\listik.csproj.SuggestedBindingRedirects.cache
+C:\Users\upass\OneDrive\Рабочий стол\курсы\listik\obj\Debug\listik.csproj.CoreCompileInputs.cache
+C:\Users\upass\OneDrive\Рабочий стол\курсы\listik\obj\Debug\listik.exe
+C:\Users\upass\OneDrive\Рабочий стол\курсы\listik\obj\Debug\listik.pdb

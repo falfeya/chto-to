@@ -1,0 +1,8 @@
+C:\Users\upass\OneDrive\Рабочий стол\курсы\kniga\bin\Debug\kniga.exe.config
+C:\Users\upass\OneDrive\Рабочий стол\курсы\kniga\bin\Debug\kniga.exe
+C:\Users\upass\OneDrive\Рабочий стол\курсы\kniga\bin\Debug\kniga.pdb
+C:\Users\upass\OneDrive\Рабочий стол\курсы\kniga\obj\Debug\kniga.csproj.AssemblyReference.cache
+C:\Users\upass\OneDrive\Рабочий стол\курсы\kniga\obj\Debug\kniga.csproj.SuggestedBindingRedirects.cache
+C:\Users\upass\OneDrive\Рабочий стол\курсы\kniga\obj\Debug\kniga.csproj.CoreCompileInputs.cache
+C:\Users\upass\OneDrive\Рабочий стол\курсы\kniga\obj\Debug\kniga.exe
+C:\Users\upass\OneDrive\Рабочий стол\курсы\kniga\obj\Debug\kniga.pdb
